@@ -3,7 +3,8 @@ const app = express();
 
 
 app.set('view engine', 'ejs');
-
+app.use(express.static('public'));
+app.use(express.static('node_modules'));
 app.get('/', (req, res) => {
     res.render('main', { title: 'Hey', message: 'Hello there!' });
 });

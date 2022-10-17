@@ -1,0 +1,147 @@
+<div data-vc-full-width="true" data-vc-full-width-init="false">
+                                    <div
+                                        class="wpb_column vc_column_container vc_col-sm-12 sc_layouts_column_icons_position_left">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_wrapper"><a id="sc_anchor_anchor_3"
+                                                    class="sc_anchor sc_anchor_default" title="" data-icon=""
+                                                    data-url="#anchor_3"></a>
+                                                <div class="vc_empty_space" style="height: 5em"><span
+                                                        class="vc_empty_space_inner"></span></div>
+                                                <div id="sc_services_1846166483"
+                                                    class="sc_services sc_services_hover sc_services_featured_top">
+                                                    <h1
+                                                        class="sc_item_title sc_services_title sc_align_center sc_item_title_style_default sc_item_title_tag">
+                                                        How It Works</h1>
+                                                    <div class="container">
+                                                        <div class="row">
+                                                            <div class="col-sm">
+                                                                <div class="sc_services_item with_content with_image">
+                                                                    <div class="sc_services_item_header  without_image">
+                                                                        <div class="sc_services_item_header_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">01</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/handling-the-task/">Handling
+                                                                                    The Task</a></h3>
+                                                                            <a href="https://christine-miller.themerex.net/services/handling-the-task/"
+                                                                                id="sc_services_1846166483_icon-clock-1"
+                                                                                class="sc_services_item_icon icon-clock-1"></a>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/handling-the-task/"></a>
+                                                                    </div>
+                                                                    <div class="sc_services_item_content"
+                                                                        style="background-image: url(https://christine-miller.themerex.net/wp-content/uploads/2017/05/clipart-3.jpg);">
+                                                                        <div class="sc_services_item_content_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">01</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/handling-the-task/">Handling
+                                                                                    The Task</a></h3>
+                                                                            <div class="sc_services_item_text">
+                                                                                <p>Lorem ipsum dolor sit amet,
+                                                                                    consectetur
+                                                                                    adipisicing elit, sed do eiusmod
+                                                                                    tempor
+                                                                                    incididunt ut labore et dolore
+                                                                                    magna
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/handling-the-task/"></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-sm">
+                                                                <div class="sc_services_item with_content with_image">
+                                                                    <div class="sc_services_item_header  without_image">
+                                                                        <div class="sc_services_item_header_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">02</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/creating-to-do-list/">Creating
+                                                                                    To-Do List</a></h3>
+                                                                            <a href="https://christine-miller.themerex.net/services/creating-to-do-list/"
+                                                                                id="sc_services_1846166483_icon-design_work"
+                                                                                class="sc_services_item_icon icon-design_work"></a>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/creating-to-do-list/"></a>
+                                                                    </div>
+                                                                    <div class="sc_services_item_content"
+                                                                        style="background-image: url(https://christine-miller.themerex.net/wp-content/uploads/2017/03/post-13.jpg);">
+                                                                        <div class="sc_services_item_content_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">02</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/creating-to-do-list/">Creating
+                                                                                    To-Do List</a></h3>
+                                                                            <div class="sc_services_item_text">
+                                                                                <p>Lorem ipsum dolor sit amet,
+                                                                                    consectetur
+                                                                                    adipisicing elit, sed do eiusmod
+                                                                                    tempor
+                                                                                    incididunt ut labore et dolore
+                                                                                    magna
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/creating-to-do-list/"></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-sm">
+                                                                <div class="sc_services_item with_content with_image">
+                                                                    <div class="sc_services_item_header  without_image">
+                                                                        <div class="sc_services_item_header_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">03</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/schedule-a-meeting/">Schedule
+                                                                                    a Meeting</a></h3>
+                                                                            <a href="https://christine-miller.themerex.net/services/schedule-a-meeting/"
+                                                                                id="sc_services_1846166483_icon-book-1"
+                                                                                class="sc_services_item_icon icon-book-1"></a>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/schedule-a-meeting/"></a>
+                                                                    </div>
+                                                                    <div class="sc_services_item_content"
+                                                                        style="background-image: url(https://christine-miller.themerex.net/wp-content/uploads/2017/03/service-4.jpg);">
+                                                                        <div class="sc_services_item_content_inner">
+                                                                            <span
+                                                                                class="sc_services_item_number">03</span>
+                                                                            <h3 class="sc_services_item_title"><a
+                                                                                    href="https://christine-miller.themerex.net/services/schedule-a-meeting/">Schedule
+                                                                                    a Meeting</a></h3>
+                                                                            <div class="sc_services_item_text">
+                                                                                <p>Lorem ipsum dolor sit amet,
+                                                                                    consectetur
+                                                                                    adipisicing elit, sed do eiusmod
+                                                                                    tempor
+                                                                                    incididunt ut labore et dolore
+                                                                                    magna</p>
+                                                                            </div>
+                                                                            <div class="sc_line"></div>
+                                                                        </div>
+                                                                        <a class="sc_services_item_link"
+                                                                            href="https://christine-miller.themerex.net/services/schedule-a-meeting/"></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- /.sc_services -->
+                                                <div class="vc_empty_space" style="height: 1.7em"><span
+                                                        class="vc_empty_space_inner"></span></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
