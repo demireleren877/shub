@@ -9,6 +9,15 @@ app.get('/', (req, res) => {
     res.render('main', { title: 'Hey', message: 'Hello there!' });
 });
 
+app.get('/faq', (req, res) => {
+    res.render('faq', { title: 'Hey', message: 'Hello there!' });
+});
+
+app.get('/service', (req, res) => {
+    res.render('service', { title: 'Hey', message: 'Hello there!' });
+});
+
+
 app.listen(process.env.PORT || 3000, () => {
     console.log('Example app listening on port 3000!')
 })
